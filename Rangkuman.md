@@ -40,7 +40,9 @@ berikut adalah cara menggunakan GIT :
 ![Screenshot (223)](https://user-images.githubusercontent.com/123804483/215295162-83c35aa3-6f80-4ca4-a593-a8372d5fb16e.png)
 
 3. kita bisa mengubah hasil kerja, dan lalu mengcommitnya 
+
 file python awal
 ![Screenshot (221)](https://user-images.githubusercontent.com/123804483/215295328-bd9996ee-9413-473f-adb3-f072693f508d.png)
 
 file python sesudah kita edit 
+![Screenshot (222)](https://user-images.githubusercontent.com/123804483/215295399-c4c6157f-7bcb-4a82-9b18-236ee30eac8f.png)
