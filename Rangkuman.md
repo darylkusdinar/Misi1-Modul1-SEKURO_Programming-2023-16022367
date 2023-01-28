@@ -21,4 +21,5 @@ video 2 menjelaskan tentang cara menggunakan GITHUB, mulai dari membuat reposito
 
 # Rangkuman video 3
 video 3 menjelaskan tentang branch, dan menyambungkan branch ke master branch (merge)
+![Screenshot (216)](https://user-images.githubusercontent.com/123804483/215268795-a80ff6ee-2684-4f8b-a695-812768ee8d6a.png)
 
