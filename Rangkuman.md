@@ -15,3 +15,5 @@ istilah dalam GIT & GITHUB, antara lain:
 9. puch = mengirimkan commit dari repo
 10. pull = mengirimkan commit dari repo 
 
+# Rangkuman video 2
+video 2 menjelaskan tentang cara menggunakan GITHUB, mulai dari membuat repository, sampai mengcommitnya 
