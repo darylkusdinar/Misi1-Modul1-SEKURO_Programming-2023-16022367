@@ -31,7 +31,10 @@ fork/forking adalah menduplikat *repository* milik orang lain. Fork tidak sama d
 # Rangkuman video 5
 video 5 menjelaskan cara instalasi sampai menggunakan GIT.
 berikut adalah cara menggunakan GIT :
-1. kita harus memilih file yang akn kita edit, lalu kita harus merubah file biasa menjadi *repository* GIT
+1. kita harus memilih folder yang akan jadi tempat file yang kana kita edit, lalu kita harus merubah folder biasa menjadi *repository* GIT
 
 ![Screenshot (227)](https://user-images.githubusercontent.com/123804483/215294660-dfa9cf97-decc-4135-a5eb-5007351b98dd.png)
 ![Screenshot (225)](https://user-images.githubusercontent.com/123804483/215294743-6d11a4cd-2205-481a-b93e-8ee7bb925144.png)
+
+2. kita menambahkan file yang kan kita edit (untuk contohnya saya menggunakan python), tetapi kita masih belum bisa meng commit filenya, oeh karena itu kita perlu memasukkan nama dan email kita (usahakan nama dan email sama seperti yang ada pada GITHUB)
+
