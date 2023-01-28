@@ -16,7 +16,7 @@ istilah dalam GIT & GITHUB, antara lain:
 10. pull = mengirimkan commit dari repo 
 
 # Rangkuman video 2
-video 2 menjelaskan tentang cara menggunakan GITHUB, mulai dari membuat repository, sampai mengcommitnya 
+video 2 menjelaskan tentang cara menggunakan GITHUB, mulai dari membuat *repository*, sampai mengcommitnya 
 ![Screenshot (215)](https://user-images.githubusercontent.com/123804483/215266320-b1f0f189-4ca2-41dc-a044-d240981a98cb.png)
 
 # Rangkuman video 3
@@ -24,3 +24,6 @@ video 3 menjelaskan tentang branch, dan menyambungkan branch ke master branch (m
 ![Screenshot (216)](https://user-images.githubusercontent.com/123804483/215268795-a80ff6ee-2684-4f8b-a695-812768ee8d6a.png)
 ![Screenshot (217)](https://user-images.githubusercontent.com/123804483/215268827-a32c9774-11c3-4bd9-aeb0-8177a58fb996.png)
 ![Screenshot (219)](https://user-images.githubusercontent.com/123804483/215269001-98c86344-a23d-466e-83fa-85f41e654701.png)
+
+# Rangkuman video 4
+fork/forking adalah menduplikat *repository* milik orang lain. Fork tidak sama dengan clone, fork mengdupliakt punya orang lain, sedangkan clone mengduplikat dari GITHU ke GIT (komputer local kita
