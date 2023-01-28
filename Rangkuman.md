@@ -17,3 +17,6 @@ istilah dalam GIT & GITHUB, antara lain:
 
 # Rangkuman video 2
 video 2 menjelaskan tentang cara menggunakan GITHUB, mulai dari membuat repository, sampai mengcommitnya 
+![Screenshot (215)](https://user-images.githubusercontent.com/123804483/215266320-b1f0f189-4ca2-41dc-a044-d240981a98cb.png)
+
+# Rangkuman video 3
