@@ -32,3 +32,4 @@ fork/forking adalah menduplikat *repository* milik orang lain. Fork tidak sama d
 video 5 menjelaskan cara instalasi sampai menggunakan GIT.
 berikut adalah cara menggunakan GIT :
 1. kita harus memilih file yang akn kita edit, lalu kita harus merubah file biasa menjadi *repository* GIT
+![Screenshot (227)](https://user-images.githubusercontent.com/123804483/215294660-dfa9cf97-decc-4135-a5eb-5007351b98dd.png)
