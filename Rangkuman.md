@@ -27,3 +27,8 @@ video 3 menjelaskan tentang branch, dan menyambungkan branch ke master branch (m
 
 # Rangkuman video 4
 fork/forking adalah menduplikat *repository* milik orang lain. Fork tidak sama dengan clone, fork mengdupliakt punya orang lain, sedangkan clone mengduplikat dari GITHU ke GIT (komputer local kita
+
+# Rangkuman video 5
+video 5 menjelaskan cara instalasi sampai menggunakan GIT.
+berikut adalah cara menggunakan GIT :
+1. kita harus memilih file yang akn kita edit, lalu kita harus merubah file biasa menjadi *repository* GIT
