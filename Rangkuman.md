@@ -46,3 +46,6 @@ file python awal
 
 file python sesudah kita edit 
 ![Screenshot (222)](https://user-images.githubusercontent.com/123804483/215295399-c4c6157f-7bcb-4a82-9b18-236ee30eac8f.png)
+
+katika mengcommit kata harus tambahkan "-m" sebagai pesan apa yang sudah kita ubah 
+![Screenshot (228)](https://user-images.githubusercontent.com/123804483/215295494-4043e09f-c486-4e84-a3f2-8e6e59440dc3.png)
