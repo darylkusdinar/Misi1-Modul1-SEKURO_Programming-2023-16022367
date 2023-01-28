@@ -37,4 +37,4 @@ berikut adalah cara menggunakan GIT :
 ![Screenshot (225)](https://user-images.githubusercontent.com/123804483/215294743-6d11a4cd-2205-481a-b93e-8ee7bb925144.png)
 
 2. kita menambahkan file yang kan kita edit (untuk contohnya saya menggunakan python), tetapi kita masih belum bisa meng commit filenya, oeh karena itu kita perlu memasukkan nama dan email kita (usahakan nama dan email sama seperti yang ada pada GITHUB)
-
+![Screenshot (223)](https://user-images.githubusercontent.com/123804483/215295162-83c35aa3-6f80-4ca4-a593-a8372d5fb16e.png)
