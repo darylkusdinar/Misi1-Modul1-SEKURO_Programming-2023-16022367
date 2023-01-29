@@ -60,7 +60,8 @@ video 6 menjelaskan tentang cara penggunaan branch dan merge pada GIT, saya memb
 3. lalu kita masuk ke VScode dan kita tmabahkan file "diskon" dan membuat programnya 
 ![Screenshot (239)](https://user-images.githubusercontent.com/123804483/215303979-2e780d9b-3b92-4b83-a939-85ed2897962b.png)
 
-4. lalu kita kembali ke GIT Bash dan ketikan "git add ." ini bertujuan untuk memsukkan file "diskon.py" kedalam stagging area, setelah itu kita ketikan "git checkout master" ini bertujuan untuk mengembalikan kita ke branch master, lalu kita lakukan lagi branching, untuk kali ini say beri nama branch baru tersebut dengan "promo".
-
+4. lalu kita kembali ke GIT Bash dan ketikan "git add ." ini bertujuan untuk memsukkan file "diskon.py" kedalam stagging area, setelah itu kita ketikan "git checkout master" ini bertujuan untuk mengembalikan kita ke branch master, lalu kita lakukan lagi branching, untuk kali ini saya beri nama branch baru tersebut dengan "promo".
+![Screenshot (241)](https://user-images.githubusercontent.com/123804483/215304377-991599c1-300c-4318-9b16-7ecbc275e836.png)
   
-  
+5. setelah itu kita checkout dan masuk ke branch promo, dan kita menambahkan file "promo.py" lalu kita buat program di file itu, jika sudah jangan lupa ketikan "git add ." untuk memeasukkan file  "promo.py" ke dalam stagging area 
+6. setelah itu kita akan melakukan merging, caranya kit acheckout dan masuk ke master branch lalu kita ketikan "git merge diskon" maka file diskon.py akan menyatu dengan kasirtoko.py. kita lakukan juga hal serupa kepada promo.py. anda juga bisa mengilangkan branch jika merasa branch sudah tidak diperlukan lagi dengan cara ketikan "git -d **nama file**"
