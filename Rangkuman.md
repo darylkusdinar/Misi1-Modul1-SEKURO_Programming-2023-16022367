@@ -70,3 +70,13 @@ video 6 menjelaskan tentang cara penggunaan branch dan merge pada GIT, saya memb
 
 ini adalah hasil akir dari branch dan merge dari 3 file
 ![Screenshot (244)](https://user-images.githubusercontent.com/123804483/215304619-a350d1f7-2005-40f3-b75f-3c5969263250.png)
+
+# Rangkuman video 7
+video 7 menjelaskan tentang cara bagaimana merging file yang sama tetapi isinya sedikit berbeda, dan juga menjelaskan bagaimana caranya kemabli ke bentuk file yang semula 
+1. buat branch seperti pada video - video sebelumnya
+2. di brnach baru ubah variabel atau apapun yang berbeda dengan master branch
+3. lalu lakukan merge
+ **NOTE** : saya sudah mengikuti cara seperti yang di video, namun saya tidak perlu memilih akan memakai yang mana, dan langung dipilih ke Branch baru, saya tidak tau mengapa, menurut saya mungkin ini disebabkan saya menggunakan python sedangkan "youtuber" menggunakan html
+ 
+ # Rangkuman video 12
+ video 12 menjelaskan tentang gitignore, yaitu metode saat kita mengcommit hanya file tertentu yang tercommit tidak smeua file
