@@ -58,6 +58,9 @@ video 6 menjelaskan tentang cara penggunaan branch dan merge pada GIT, saya memb
 ![Screenshot (238)](https://user-images.githubusercontent.com/123804483/215303807-5a65336a-0005-4fab-a8f7-7f0d714fe282.png)
 
 3. lalu kita masuk ke VScode dan kita tmabahkan file "diskon" dan membuat programnya 
+![Screenshot (239)](https://user-images.githubusercontent.com/123804483/215303979-2e780d9b-3b92-4b83-a939-85ed2897962b.png)
+
+4. lalu kita kembali ke GIT Bash dan ketikan "git add ." ini bertujuan untuk memsukkan file "diskon.py" kedalam stagging area, setelah itu kita ketikan "git checkout master" ini bertujuan untuk mengembalikan kita ke branch master, lalu kita lakukan lagi branching, untuk kali ini say beri nama branch baru tersebut dengan "promo".
 
   
   
