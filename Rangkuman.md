@@ -53,6 +53,11 @@ katika mengcommit kata harus tambahkan "-m" sebagai pesan apa yang sudah kita ub
 # Rangkuman video 6
 video 6 menjelaskan tentang cara penggunaan branch dan merge pada GIT, saya membuat program python yang berisikan tentang program sederhana kasir toko yang akan menggunakan sistem diskon dan promo.
 1. kita masuk ke file yang akan kita edit
-2. ketikan "git branch <nama branch>" di sini saya menamakan branch dengan <diskon>
+2. ketikan "git branch **nama branch**" di sini saya menamakan branch dengan **diskon**
+
+![Screenshot (238)](https://user-images.githubusercontent.com/123804483/215303807-5a65336a-0005-4fab-a8f7-7f0d714fe282.png)
+
+3. lalu kita masuk ke VScode dan kita tmabahkan file "diskon" dan membuat programnya 
+
   
   
