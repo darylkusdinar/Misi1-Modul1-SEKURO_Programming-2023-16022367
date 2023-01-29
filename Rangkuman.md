@@ -65,3 +65,8 @@ video 6 menjelaskan tentang cara penggunaan branch dan merge pada GIT, saya memb
   
 5. setelah itu kita checkout dan masuk ke branch promo, dan kita menambahkan file "promo.py" lalu kita buat program di file itu, jika sudah jangan lupa ketikan "git add ." untuk memeasukkan file  "promo.py" ke dalam stagging area 
 6. setelah itu kita akan melakukan merging, caranya kit acheckout dan masuk ke master branch lalu kita ketikan "git merge diskon" maka file diskon.py akan menyatu dengan kasirtoko.py. kita lakukan juga hal serupa kepada promo.py. anda juga bisa mengilangkan branch jika merasa branch sudah tidak diperlukan lagi dengan cara ketikan "git -d **nama file**"
+
+![Screenshot (243)](https://user-images.githubusercontent.com/123804483/215304615-4ff2d95d-0db2-4d73-803f-85adc94845a7.png)
+
+ini adalah hasil akir dari branch dan merge dari 3 file
+![Screenshot (244)](https://user-images.githubusercontent.com/123804483/215304619-a350d1f7-2005-40f3-b75f-3c5969263250.png)
