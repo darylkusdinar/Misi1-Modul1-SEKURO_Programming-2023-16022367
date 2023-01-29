@@ -26,7 +26,7 @@ video 3 menjelaskan tentang branch, dan menyambungkan branch ke master branch (m
 ![Screenshot (219)](https://user-images.githubusercontent.com/123804483/215269001-98c86344-a23d-466e-83fa-85f41e654701.png)
 
 # Rangkuman video 4
-fork/forking adalah menduplikat *repository* milik orang lain. Fork tidak sama dengan clone, fork mengdupliakt punya orang lain, sedangkan clone mengduplikat dari GITHU ke GIT (komputer local kita
+fork/forking adalah menduplikat *repository* milik orang lain. Fork tidak sama dengan clone, fork mengdupliakt punya orang lain, sedangkan clone mengduplikat dari GITHU ke GIT (komputer local kita)
 
 # Rangkuman video 5
 video 5 menjelaskan cara instalasi sampai menggunakan GIT.
@@ -39,7 +39,7 @@ berikut adalah cara menggunakan GIT :
 2. kita menambahkan file yang kan kita edit (untuk contohnya saya menggunakan python), tetapi kita masih belum bisa meng commit filenya, oeh karena itu kita perlu memasukkan nama dan email kita (usahakan nama dan email sama seperti yang ada pada GITHUB)
 ![Screenshot (223)](https://user-images.githubusercontent.com/123804483/215295162-83c35aa3-6f80-4ca4-a593-a8372d5fb16e.png)
 
-3. kita bisa mengubah hasil kerja, dan lalu mengcommitnya 
+3. kita bisa mengubah hasil kerja, dan lalu mengcommitnya (saya menggunakan file python, sedangkan di video menggunakan HTML) 
 
 file python awal
 ![Screenshot (221)](https://user-images.githubusercontent.com/123804483/215295328-bd9996ee-9413-473f-adb3-f072693f508d.png)
@@ -49,3 +49,10 @@ file python sesudah kita edit
 
 katika mengcommit kata harus tambahkan "-m" sebagai pesan apa yang sudah kita ubah 
 ![Screenshot (228)](https://user-images.githubusercontent.com/123804483/215295494-4043e09f-c486-4e84-a3f2-8e6e59440dc3.png)
+
+# Rangkuman video 6
+video 6 menjelaskan tentang cara penggunaan branch dan merge pada GIT, saya membuat program python yang berisikan tentang program sederhana kasir toko yang akan menggunakan sistem diskon dan promo.
+1. kita masuk ke file yang akan kita edit
+2. ketikan "git branch <nama branch>" di sini saya menamakan branch dengan <diskon>
+  
+  
